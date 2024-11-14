@@ -1034,3 +1034,6 @@ CONFIG_CFS_BANDWIDTH=y
 
 # dev ril bridge
 CONFIG_DEV_RIL_BRIDGE=y
+
+# set overlay_FS
+CONFIG_OVERLAY_FS=y
